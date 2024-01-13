@@ -1,0 +1,14 @@
+# Para iniciar o uso do Terraform
+terraform init
+
+# Para verificar erros no codigo
+terraform plan
+
+# Para logar no azure
+az login
+
+# Para aplicar alterações
+terraform apply
+
+#Para remover configurações
+terraform destroy
